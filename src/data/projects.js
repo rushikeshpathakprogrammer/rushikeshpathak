@@ -1,4 +1,4 @@
-// Projects sourced from github.com/RUSHIKESHPATHAK235
+// Projects sourced from github.com/rushikeshpathakprogrammer
 export const PROJECTS = [
   {
     name: 'FamilyVC',
@@ -6,7 +6,7 @@ export const PROJECTS = [
     lang: 'JavaScript',
     desc: 'A real-time family video-connect web app — bringing people together face-to-face with a clean, modern interface.',
     tags: ['WebRTC', 'Node.js', 'Real-time'],
-    url: 'https://github.com/RUSHIKESHPATHAK235/familyvc',
+    url: 'https://github.com/rushikeshpathakprogrammer/familyvc',
   },
   {
     name: 'Puffx Pay — Payment Gateway',
@@ -14,7 +14,7 @@ export const PROJECTS = [
     lang: 'PHP / API',
     desc: 'Secure and lightweight Puffx Pay payment gateway module built for SMM panels — handling transactions safely at scale.',
     tags: ['Payments', 'Security', 'API'],
-    url: 'https://github.com/RUSHIKESHPATHAK235/Puffx-Pay-SMM-Panel-Payment-Gateway-Module',
+    url: 'https://github.com/rushikeshpathakprogrammer/Puffx-Pay-SMM-Panel-Payment-Gateway-Module',
   },
   {
     name: 'Login System + MongoDB',
@@ -22,7 +22,7 @@ export const PROJECTS = [
     lang: 'EJS / Node',
     desc: 'Full authentication system with MongoDB persistence — sessions, hashed credentials and a server-rendered EJS front end.',
     tags: ['MongoDB', 'Express', 'Auth'],
-    url: 'https://github.com/RUSHIKESHPATHAK235/Login_Page_With_MongoDB',
+    url: 'https://github.com/rushikeshpathakprogrammer/Login_Page_With_MongoDB',
   },
   {
     name: 'OTP Verification Webpage',
@@ -30,7 +30,7 @@ export const PROJECTS = [
     lang: 'HTML / JS',
     desc: 'Slick OTP verification flow with auto-focus inputs and validation — the kind of micro-UX that makes products feel premium.',
     tags: ['UX', 'Validation', 'Frontend'],
-    url: 'https://github.com/RUSHIKESHPATHAK235/OTP_VERIFICATION_WEBPAGE',
+    url: 'https://github.com/rushikeshpathakprogrammer/OTP_VERIFICATION_WEBPAGE',
   },
   {
     name: 'Weather Forecast',
@@ -38,7 +38,7 @@ export const PROJECTS = [
     lang: 'JavaScript',
     desc: 'Live weather app consuming a forecast API — search any city and get real-time conditions in a clean dashboard.',
     tags: ['REST API', 'Async JS', 'UI'],
-    url: 'https://github.com/RUSHIKESHPATHAK235/Weather-Forecast',
+    url: 'https://github.com/rushikeshpathakprogrammer/Weather-Forecast',
   },
   {
     name: 'Social Website',
@@ -46,7 +46,7 @@ export const PROJECTS = [
     lang: 'HTML / CSS',
     desc: 'A social platform front end — feeds, profiles and responsive layouts crafted with pure HTML & CSS.',
     tags: ['Responsive', 'Layout', 'Frontend'],
-    url: 'https://github.com/RUSHIKESHPATHAK235/Social-Website',
+    url: 'https://github.com/rushikeshpathakprogrammer/Social-Website',
   },
   {
     name: 'Minecraft-like Game in Unity',
@@ -54,7 +54,7 @@ export const PROJECTS = [
     lang: 'C# / Unity',
     desc: 'Voxel world engine built in Unity with C# — chunk generation, block placement and game loop architecture.',
     tags: ['Unity', 'C#', 'Game Dev'],
-    url: 'https://github.com/RUSHIKESHPATHAK235/Code-A-Game-Like-Minecraft-In-Unity',
+    url: 'https://github.com/rushikeshpathakprogrammer/Code-A-Game-Like-Minecraft-In-Unity',
   },
   {
     name: 'ToDo List',
@@ -62,7 +62,7 @@ export const PROJECTS = [
     lang: 'CSS / JS',
     desc: 'Productivity app with add/complete/delete flows and persistent state — simple tool, polished execution.',
     tags: ['LocalStorage', 'DOM', 'CRUD'],
-    url: 'https://github.com/RUSHIKESHPATHAK235/ToDo-List',
+    url: 'https://github.com/rushikeshpathakprogrammer/ToDo-List',
   },
   {
     name: 'Stopwatch',
@@ -70,7 +70,7 @@ export const PROJECTS = [
     lang: 'JavaScript',
     desc: 'Precision stopwatch with lap tracking and millisecond accuracy — timing logic done right in vanilla JS.',
     tags: ['Timers', 'Vanilla JS'],
-    url: 'https://github.com/RUSHIKESHPATHAK235/Stopwatch',
+    url: 'https://github.com/rushikeshpathakprogrammer/Stopwatch',
   },
   {
     name: 'Countdown Timer',
@@ -78,7 +78,7 @@ export const PROJECTS = [
     lang: 'HTML / JS',
     desc: 'Event countdown with animated digits — days, hours, minutes and seconds ticking down in style.',
     tags: ['Date API', 'Animation'],
-    url: 'https://github.com/RUSHIKESHPATHAK235/Count-Down-Timer',
+    url: 'https://github.com/rushikeshpathakprogrammer/Count-Down-Timer',
   },
   {
     name: 'Calculator',
@@ -86,7 +86,7 @@ export const PROJECTS = [
     lang: 'HTML / CSS / JS',
     desc: 'Fully functional calculator with keyboard support and a crisp glass-style interface.',
     tags: ['Logic', 'UI', 'Vanilla JS'],
-    url: 'https://github.com/RUSHIKESHPATHAK235/Calculator-Using-Html-CSS-Javscript',
+    url: 'https://github.com/rushikeshpathakprogrammer/Calculator-Using-Html-CSS-Javscript',
   },
   {
     name: 'Python Programs Suite',
@@ -94,7 +94,7 @@ export const PROJECTS = [
     lang: 'Python',
     desc: 'A collection of Python programs — test automation, personal-details processing and logic exercises.',
     tags: ['Python', 'Scripting', 'Automation'],
-    url: 'https://github.com/RUSHIKESHPATHAK235/Python_test_program',
+    url: 'https://github.com/rushikeshpathakprogrammer/Python_test_program',
   },
 ]
 
@@ -122,5 +122,5 @@ export const ROLES = [
   'AI-Powered Vibe Coder',
 ]
 
-export const GITHUB_URL = 'https://github.com/RUSHIKESHPATHAK235'
+export const GITHUB_URL = 'https://github.com/rushikeshpathakprogrammer'
 export const EMAIL = 'rushikeshpathak322@oxaam.com'
