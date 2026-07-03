@@ -1,0 +1,126 @@
+// Projects sourced from github.com/RUSHIKESHPATHAK235
+export const PROJECTS = [
+  {
+    name: 'FamilyVC',
+    glyph: '◉',
+    lang: 'JavaScript',
+    desc: 'A real-time family video-connect web app — bringing people together face-to-face with a clean, modern interface.',
+    tags: ['WebRTC', 'Node.js', 'Real-time'],
+    url: 'https://github.com/RUSHIKESHPATHAK235/familyvc',
+  },
+  {
+    name: 'Puffx Pay — Payment Gateway',
+    glyph: '◈',
+    lang: 'PHP / API',
+    desc: 'Secure and lightweight Puffx Pay payment gateway module built for SMM panels — handling transactions safely at scale.',
+    tags: ['Payments', 'Security', 'API'],
+    url: 'https://github.com/RUSHIKESHPATHAK235/Puffx-Pay-SMM-Panel-Payment-Gateway-Module',
+  },
+  {
+    name: 'Login System + MongoDB',
+    glyph: '⬡',
+    lang: 'EJS / Node',
+    desc: 'Full authentication system with MongoDB persistence — sessions, hashed credentials and a server-rendered EJS front end.',
+    tags: ['MongoDB', 'Express', 'Auth'],
+    url: 'https://github.com/RUSHIKESHPATHAK235/Login_Page_With_MongoDB',
+  },
+  {
+    name: 'OTP Verification Webpage',
+    glyph: '⌗',
+    lang: 'HTML / JS',
+    desc: 'Slick OTP verification flow with auto-focus inputs and validation — the kind of micro-UX that makes products feel premium.',
+    tags: ['UX', 'Validation', 'Frontend'],
+    url: 'https://github.com/RUSHIKESHPATHAK235/OTP_VERIFICATION_WEBPAGE',
+  },
+  {
+    name: 'Weather Forecast',
+    glyph: '◐',
+    lang: 'JavaScript',
+    desc: 'Live weather app consuming a forecast API — search any city and get real-time conditions in a clean dashboard.',
+    tags: ['REST API', 'Async JS', 'UI'],
+    url: 'https://github.com/RUSHIKESHPATHAK235/Weather-Forecast',
+  },
+  {
+    name: 'Social Website',
+    glyph: '◍',
+    lang: 'HTML / CSS',
+    desc: 'A social platform front end — feeds, profiles and responsive layouts crafted with pure HTML & CSS.',
+    tags: ['Responsive', 'Layout', 'Frontend'],
+    url: 'https://github.com/RUSHIKESHPATHAK235/Social-Website',
+  },
+  {
+    name: 'Minecraft-like Game in Unity',
+    glyph: '▦',
+    lang: 'C# / Unity',
+    desc: 'Voxel world engine built in Unity with C# — chunk generation, block placement and game loop architecture.',
+    tags: ['Unity', 'C#', 'Game Dev'],
+    url: 'https://github.com/RUSHIKESHPATHAK235/Code-A-Game-Like-Minecraft-In-Unity',
+  },
+  {
+    name: 'ToDo List',
+    glyph: '✓',
+    lang: 'CSS / JS',
+    desc: 'Productivity app with add/complete/delete flows and persistent state — simple tool, polished execution.',
+    tags: ['LocalStorage', 'DOM', 'CRUD'],
+    url: 'https://github.com/RUSHIKESHPATHAK235/ToDo-List',
+  },
+  {
+    name: 'Stopwatch',
+    glyph: '◷',
+    lang: 'JavaScript',
+    desc: 'Precision stopwatch with lap tracking and millisecond accuracy — timing logic done right in vanilla JS.',
+    tags: ['Timers', 'Vanilla JS'],
+    url: 'https://github.com/RUSHIKESHPATHAK235/Stopwatch',
+  },
+  {
+    name: 'Countdown Timer',
+    glyph: '◔',
+    lang: 'HTML / JS',
+    desc: 'Event countdown with animated digits — days, hours, minutes and seconds ticking down in style.',
+    tags: ['Date API', 'Animation'],
+    url: 'https://github.com/RUSHIKESHPATHAK235/Count-Down-Timer',
+  },
+  {
+    name: 'Calculator',
+    glyph: '∑',
+    lang: 'HTML / CSS / JS',
+    desc: 'Fully functional calculator with keyboard support and a crisp glass-style interface.',
+    tags: ['Logic', 'UI', 'Vanilla JS'],
+    url: 'https://github.com/RUSHIKESHPATHAK235/Calculator-Using-Html-CSS-Javscript',
+  },
+  {
+    name: 'Python Programs Suite',
+    glyph: 'λ',
+    lang: 'Python',
+    desc: 'A collection of Python programs — test automation, personal-details processing and logic exercises.',
+    tags: ['Python', 'Scripting', 'Automation'],
+    url: 'https://github.com/RUSHIKESHPATHAK235/Python_test_program',
+  },
+]
+
+export const SKILLS = [
+  { icon: '⬡', name: 'MongoDB', level: 95 },
+  { icon: '⌬', name: 'React', level: 96 },
+  { icon: '»', name: 'Express.js', level: 94 },
+  { icon: '⬢', name: 'Node.js', level: 95 },
+  { icon: '</>', name: 'HTML5', level: 98 },
+  { icon: '#', name: 'CSS3', level: 97 },
+  { icon: '{ }', name: 'JavaScript', level: 96 },
+  { icon: 'C#', name: 'C# / Unity', level: 88 },
+  { icon: 'λ', name: 'Python', level: 92 },
+  { icon: '△', name: 'Flask', level: 90 },
+  { icon: '✦', name: 'AI Integration', level: 93 },
+  { icon: '∞', name: 'Vibe Coding', level: 99 },
+]
+
+export const ROLES = [
+  'Founder & CEO of 2 Businesses',
+  'Full Stack Developer (MERN)',
+  'Freelancer · 250+ Clients',
+  'Python & Flask Developer',
+  'C# & Unity Developer',
+  'AI-Powered Vibe Coder',
+]
+
+export const GITHUB_URL = 'https://github.com/RUSHIKESHPATHAK235'
+export const EMAIL = 'rushikeshpathak322@oxaam.com'
